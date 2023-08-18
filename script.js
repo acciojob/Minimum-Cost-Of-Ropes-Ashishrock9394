@@ -16,6 +16,5 @@ function calculateMinCost() {
   let result = document.getElementById("result");
 	result.innerText = finalValue;
 	return finalValue;
-}
 			
 }
